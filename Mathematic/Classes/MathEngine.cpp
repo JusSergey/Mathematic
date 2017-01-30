@@ -1,9 +1,10 @@
 #include "MathEngine.h"
 
 USING_NS_CC;
-
+ 
 using namespace std;
 using namespace StringUtils;
+
 
 static const char openScobe  = '(';
 static const char closeScobe = ')';
